@@ -1,7 +1,13 @@
 package io.nichijou.notranslation
 
 import com.google.gson.Gson
-import okhttp3.*
+import okhttp3.Call
+import okhttp3.Callback
+import okhttp3.FormBody
+import okhttp3.Headers
+import okhttp3.OkHttpClient
+import okhttp3.Request
+import okhttp3.Response
 import java.io.IOException
 import java.net.CookieManager
 import java.util.concurrent.TimeUnit
