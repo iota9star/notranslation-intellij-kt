@@ -1,0 +1,17 @@
+<idea-plugin>
+    <id>io.nichijou.notranslation</id>
+    <name>No Translation</name>
+    <vendor email="iota9star@gmail.com" url="http://nichijou.io">iota9star</vendor>
+
+    <description><![CDATA[简单的翻译词汇]]></description>
+
+    <actions>
+        <action id="no_translation"
+                class="io.nichijou.notranslation.NoTransAction"
+                text="NoTranslation"
+                description="Translate the words concisely.">
+            <add-to-group group-id="EditMenu" anchor="first"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="alt t"/>
+        </action>
+    </actions>
+</idea-plugin>
