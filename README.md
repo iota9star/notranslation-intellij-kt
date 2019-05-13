@@ -1,5 +1,5 @@
 # NoTranslation
-一个简单的IntelliJ 翻译插件，下载插件【[notranslation-0.0.1.zip](https://github.com/iota9star/oops-android-kt/raw/master/art/notranslation-0.0.1.zip "notranslation-0.0.1.zip")】  
+一个简单的IntelliJ 翻译插件，下载插件【[notranslation-0.0.1.zip](https://github.com/iota9star/notranslation-intellij-kt/blob/master/art/notranslation-0.0.1.zip?raw=true "notranslation-0.0.1.zip")】  
 
 ![art](https://github.com/iota9star/notranslation-intellij-kt/blob/master/art/1.png "art")
 ### 使用
